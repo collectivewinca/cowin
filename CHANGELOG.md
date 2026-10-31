@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-31
+- Westchester housing help: added Official "Crisis stays (Airbnb.org & peers)" section (Airbnb.org partner-referral-only stays, HotelHelp for trafficking survivors via care providers, Take Refuge / Host Homes as related, Red Cross / 211 / DSS first steps). TOC link added.
+
 ## 2026-10-30
 - Westchester housing help: added EHV section (no new EHVs since Mar 26, 2025; referral-only history; EHV-to-TPV transition by Dec 31, 2026; alternatives). Removed community text implying EHV is still open.
 - Westchester housing help: added Westchester Rentals bot listing-search note and canonical share/permalink link.
